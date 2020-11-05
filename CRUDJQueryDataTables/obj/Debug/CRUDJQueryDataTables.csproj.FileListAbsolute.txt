@@ -1,0 +1,84 @@
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll.config
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.pdb
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.xml
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.xml
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.xml
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.xml
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.xml
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.xml
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.xml
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.csprojResolveAssemblyReference.cache
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.dll
+c:\users\hasan\documents\visual studio 2013\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.pdb
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll.config
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.pdb
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.xml
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.xml
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.xml
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.xml
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.xml
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.xml
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.xml
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.dll
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.pdb
+G:\File\Projects\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.csprojResolveAssemblyReference.cache
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll.config
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.pdb
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\Microsoft.Web.Infrastructure.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.xml
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.xml
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.xml
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.xml
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.xml
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.xml
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.xml
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.csprojResolveAssemblyReference.cache
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.dll
+H:\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.pdb
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll.config
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\CRUDJQueryDataTables.pdb
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\Microsoft.Web.Infrastructure.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\EntityFramework.xml
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Razor.xml
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.xml
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Deployment.xml
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Webpages.Razor.xml
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Helpers.xml
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\bin\System.Web.Mvc.xml
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.csproj.CoreCompileInputs.cache
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.csproj.CopyComplete
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.dll
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.pdb
+E:\OpenIT\CRUDJQueryDataTables\CRUDJQueryDataTables\CRUDJQueryDataTables\obj\Debug\CRUDJQueryDataTables.csprojAssemblyReference.cache

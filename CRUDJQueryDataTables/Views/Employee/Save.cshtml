@@ -1,0 +1,40 @@
+﻿@model CRUDJQueryDataTables.Models.Employee
+<h4>Employee Info</h4>
+<hr />
+@using (Html.BeginForm("save", "Employee", FormMethod.Post, new { id = "popupForm" }))
+{
+    if (Model != null && Model.Id > 0)
+    {
+        @Html.HiddenFor(a => a.Id)
+    }
+
+    <div class="form-group">
+        <label>First Name</label>
+        @Html.TextBoxFor(a => a.fName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(a => a.fName)
+    </div>
+    <div class="form-group">
+        <label>Last Name</label>
+        @Html.TextBoxFor(a => a.lName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(a => a.lName)
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        @Html.TextBoxFor(a => a.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(a => a.Email)
+    </div>
+    <div class="form-group">
+        <label>City</label>
+        @Html.TextBoxFor(a => a.City, new { @class = "form-control" })
+        @Html.ValidationMessageFor(a => a.City)
+    </div>
+    <div class="form-group">
+        <label>Country</label>
+        @Html.TextBoxFor(a => a.Country, new { @class = "form-control" })
+        @Html.ValidationMessageFor(a => a.Country)
+    </div>
+
+    <div>
+        <input type="submit" value="Save" class="btn btn-success"/>
+    </div>
+}
